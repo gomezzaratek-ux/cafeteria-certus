@@ -10,13 +10,13 @@ const BUSINESS = {
     yape: {
         qrImage: "",
         recipient: "",
-        phone: ""
+        phone: "51937208290"
     },
     socials: {
         instagram: "",
         tiktok: "",
         facebook: "",
-        whatsapp: ""
+        whatsapp: "https://wa.link/w9vs0l"
     }
 };
 
