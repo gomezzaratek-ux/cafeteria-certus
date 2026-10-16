@@ -13,7 +13,7 @@ const BUSINESS = {
         phone: "51937208290"
     },
     socials: {
-        instagram: "",
+        instagram: "https://www.instagram.com/trabajocertushd/",
         tiktok: "",
         facebook: "",
         whatsapp: "https://wa.link/w9vs0l"
