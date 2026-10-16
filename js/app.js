@@ -6,11 +6,11 @@
   Redes: URL completa de los perfiles oficiales.
 */
 const BUSINESS = {
-    whatsappNumber: "51937208290", // Ejemplo de formato: 51987654321 (reemplazar por el número real)
+    whatsappNumber: "51939485459", // Ejemplo de formato: 51987654321 (reemplazar por el número real)
     yape: {
         qrImage: "",
         recipient: "",
-        phone: "51937208290"
+        phone: "51939485459"
     },
     socials: {
         instagram: "https://www.instagram.com/trabajocertushd/",
